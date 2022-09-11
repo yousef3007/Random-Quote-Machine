@@ -1,0 +1,31 @@
+.square {
+    background-color: white;
+    position:absolute;
+    top: 0; bottom: 50px; left: 0; right: 0; 
+    width: 35%;
+    margin: auto;
+    display: inline-block;
+    border-radius: 1%;
+    height:fit-content;
+    padding: 10px;
+}
+.quote{
+    font-size: 30px;
+    height:fit-content;
+    text-align: center;
+}
+.author{
+    text-align:right;
+    top:1;
+    font-size: 20px;
+}
+button{
+    margin-inline: 10px;
+    margin-bottom: 10px;
+}
+.right{
+    float: right;
+}
+#tweet-quote{
+    background-color: white;
+}
